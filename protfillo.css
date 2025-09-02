@@ -45,7 +45,7 @@ section{
     align-items: center;
     width: 100%;
     background:linear-gradient(to right , rgba(0, 0, 0, 0.651) , #ffffff28),  
-    url(/photo/ph.JPG) no-repeat;
+    url(ph.JPG) no-repeat;
         background-size: contain;
         background-position: right;
      background-attachment: fixed;
@@ -116,5 +116,6 @@ font-weight: 700;
     justify-self: start;
 
 }
+
 
 
